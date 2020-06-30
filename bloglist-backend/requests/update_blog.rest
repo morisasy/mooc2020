@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/5e0ba7c9a8d2d7256197b6a5
+content-type: application/json
+
+{
+    "title": "Finnish Food for x-mas",
+    "author": "Paivi",
+    "url": "www.yle.fi/ruoka/joulua",
+    "likes": 25,
+    "id": "5e0ba7c9a8d2d7256197b6a5"            
+}

@@ -1,0 +1,14 @@
+- rm -rf .git
+- npx create-react-app my-app (create new app)
+- npm install
+- npm start
+- npm install redux --save
+- npm install --save react-redux
+- npm install --save redux-devtools-extension
+- npm install --save redux react-redux redux-devtools-extension
+- npm install axios --save
+- npm install json-server --save-dev
+- npm run server
+- npm install --save react-router-dom
+- npm install --save styled-components
+- npm install --save redux react-redux redux-devtools-extension axios react-router-dom styled-components

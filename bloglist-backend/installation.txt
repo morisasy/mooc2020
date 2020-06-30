@@ -1,0 +1,24 @@
+- rm -rf .git
+- npm install -g npm
+- npm update
+- npm install
+- npm audit fix
+- npm install --save express mongoose body-parser cors dotenv nodemon bcrypt mongoose-unique-validator
+- npm install --save-dev cross-env
+- npm install --save nodemon
+- npm install cors --save
+- npm i morgan
+- npm install mongoose --save
+- npm install dotenv --save
+- npx create-react-app my-app (create new app)
+- node --inspect index.js
+- npm install eslint --save-dev
+- npm install --save-dev supertest
+- npm install bcrypt --save
+- npm install --save mongoose-unique-validator
+- node_modules/.bin/eslint --init (initialize initialize a default ESlint configuration)
+- https://fullstackopen.com/en/part3/validation_and_es_lint
+- npm run lint
+- npm install jsonwebtoken --save
+
+
